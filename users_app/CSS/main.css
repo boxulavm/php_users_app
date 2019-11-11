@@ -1,0 +1,28 @@
+body {
+    background: #19191b;
+    color: #d3d3d3;
+}
+
+hr {
+    background: #5e5e5e;
+}
+
+footer {
+    margin-top: 200px;
+}
+
+thead{
+    background: #0f0f11;
+}
+
+.card {
+    background: #0f0f11 !important;
+}
+
+.modal-content {
+    background: #19191b;
+}
+
+.fade {
+    background-color: rgba(0, 0, 0, 0.8) !important;
+}
